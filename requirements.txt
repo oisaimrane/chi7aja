@@ -1,0 +1,6 @@
+discord.py
+spotipy
+requests
+yt-dlp
+flask
+python-dotenv
