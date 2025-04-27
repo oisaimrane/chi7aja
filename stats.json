@@ -1,0 +1,7 @@
+{
+  "players": [
+    { "name": "Player1", "goals": 5, "wins": 3 },
+    { "name": "Player2", "goals": 3, "wins": 2 },
+    { "name": "Player3", "goals": 2, "wins": 1 }
+  ]
+}
